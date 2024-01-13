@@ -17,7 +17,7 @@
 		"url": "https://github.com/SylviaStachera/Pig_Game/issues"
 	},
 	"homepage": "https://github.com/SylviaStachera/Pig_Game#readme",
-	"dependencies": {
+	"devDependencies": {
 		"parcel": "^2.11.0"
 	}
 }
