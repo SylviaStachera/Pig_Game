@@ -27,13 +27,10 @@ The Pig Dice Game is a classic dice game that can be played between two players.
 
 To play the Pig Dice Game locally, follow these steps:
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/pig-dice-game.git
-2. Run the project
-    ```bash
-    npm start
-4.  Enjoy the game with a friend!
+1. Clone the repository to your local computer.
+2. Open the terminal and navigate to the game directory.
+3. Enter the following command to initialize the game: "npm run start"
+4. Ensure that you have Node.js installed to use the npm package manager.
    or
 1. Enjoy the game right now!
 https://pig-game-ksiazek.netlify.app
